@@ -1,7 +1,7 @@
 
 import unittest
 import os
-from code_utils.decorators.base import BaseDecorator
+from py_utils.decorators.base import BaseDecorator
 
 class TestBaseDecorator(unittest.TestCase):
     def setUp(self):
